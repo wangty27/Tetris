@@ -1,1 +1,2 @@
-This is the git repo for CS Group Assignment.
+# Tetris
+A C++ clone of the game Tetris
