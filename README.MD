@@ -1,2 +1,2 @@
 # Tetris
-A C++ clone of the game Tetris
+The game Tetris made with C++.
